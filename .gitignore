@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+
+# 自动生成
+# *.aux
+# *.log
+# *.nav
+# *.snm
+# *.toc
+# *.vrb
+slide.* !slide.tex
