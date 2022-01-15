@@ -39,4 +39,4 @@
 *.snm
 *.toc
 *.vrb
-.vscode
+/.vscode
