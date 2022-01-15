@@ -40,5 +40,5 @@
 *.toc
 *.vrb
 /.vscode
-.pdf
+*.pdf
 .vscode/
